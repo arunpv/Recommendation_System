@@ -17,10 +17,10 @@ This is based on the similarity between the products. Eg, If a user had watched 
 This is based on the similarity of users. Eg, If person A and B had watched and liked the movie M, next if person A watches the movie Z and likes it, we can recommend the movie Z to person B, since A and B are similar users.
 
 ## Hybrid filtering:
-This makes use of all or some of the above-mentioned methods to form a hybrid model.
+This makes use of all or some of the above-mentioned methods to form a hybrid model. You need to add the Books.CSV file from the dataset link below.
 
+Link to the dataset https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset. 
 
-Link to the dataset https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 Below are some of the screenshots from the GUI
 ![image](https://user-images.githubusercontent.com/94861619/185192233-bf5697e7-18c6-4a48-8513-8ec008a05fc9.png)
 ![image](https://user-images.githubusercontent.com/94861619/185192354-eb5cceea-fd61-4ef4-bb27-cb0c7924488d.png)
